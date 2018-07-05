@@ -1,1 +1,58 @@
-sdibinsdiuu
+commit 2274ad2ea75558e2c9e4653ff027dbc5553ac94d
+Merge: 9c0c37f cb51a70
+Author: hdevaraj <hdevaraj@gmail.com>
+Date:   Thu Jul 5 07:25:07 2018 +0530
+
+    SampekjndcjhbMerge branch 'master' of https://github.com/hdevaraj/DevopsDemo into development
+
+commit 9c0c37f1d6f7da47c889396705482a7561aefd95
+Author: hdevaraj <hdevaraj@gmail.com>
+Date:   Thu Jul 5 07:24:24 2018 +0530
+
+    Development branch
+
+commit cb51a703f06b571eac8d1b5b84308a11962c0db5
+Author: hdevaraj <hdevaraj@gmail.com>
+Date:   Thu Jul 5 07:20:25 2018 +0530
+
+    commit
+
+commit 63997dda3b6ce1b13d09acd84a4d0ba51f025ec7
+Author: hdevaraj <hdevaraj@gmail.com>
+Date:   Wed Jul 4 23:21:33 2018 +0530
+
+    New feature file
+
+commit 499d0eb4a22ec26577db0203afba0e48d17d79e4
+Merge: cb018de 7408e7e
+Author: hdevaraj <hdevaraj@gmail.com>
+Date:   Wed Jul 4 23:11:00 2018 +0530
+
+    xir
+    exit
+    wq
+    Merge branch 'master' of https://github.com/hdevaraj/DevopsDemo
+
+commit 7408e7e01a348bbfde354a9fb82589411815e3f5
+Author: hdevaraj <40792489+hdevaraj@users.noreply.github.com>
+Date:   Wed Jul 4 23:07:29 2018 +0530
+
+    create webportal file
+
+commit cb018de309e64265bcdb8b97b7432aeefe40e98c
+Author: hdevaraj <hdevaraj@gmail.com>
+Date:   Wed Jul 4 23:03:32 2018 +0530
+
+    Third commit
+
+commit 17d93b80105a5fb70358c5c3da4ca992758eefab
+Author: hdevaraj <hdevaraj@gmail.com>
+Date:   Wed Jul 4 23:01:17 2018 +0530
+
+    Second commit
+
+commit 3c52024a32c43f3ec25af13cfb38832438452eaa
+Author: hdevaraj <hdevaraj@gmail.com>
+Date:   Wed Jul 4 22:52:54 2018 +0530
+
+    first commit
