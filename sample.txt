@@ -1,6 +1,5 @@
 commit 2274ad2ea75558e2c9e4653ff027dbc5553ac94d
-Merge: 9c0c37f cb51a70
-Author: hdevaraj <hdevaraj@gmail.com>
+nm
 Date:   Thu Jul 5 07:25:07 2018 +0530
 
     SampekjndcjhbMerge branch 'master' of https://github.com/hdevaraj/DevopsDemo into development
